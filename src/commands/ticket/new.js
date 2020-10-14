@@ -37,7 +37,7 @@ module.exports = class extends BaseCommand {
             return message.channel.send(new Discord.MessageEmbed()
                 .setColor('RED')
                 .setTimestamp()
-                .setDescription('Ticket System is disabled or the Ticket Category cannot be found, contact server admins to enable/fix this')
+                .setDescription('Ticket System is disabled or the Ticket Category cannot be found, contact server Owner or Moderators s to enable/fix this')
             );
         }
         if (message.channel.parentID === strat) {

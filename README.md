@@ -8,7 +8,7 @@ A Powerful multipurpose Discord Bot with over than 100+ commands!
 
 ### Features
 
-0_0Bot offers:
+Annys offers:
 
 * Server Configuration \(prefix, welcomer, farewell etc...\)
 * Member Captcha Verification System
