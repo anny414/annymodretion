@@ -36,7 +36,7 @@ module.exports = class extends BaseCommand {
             .setTitle('0_0 Fun & Moderation bot')
             .setDescription(`
 [Support Server](${client.unicron.serverInviteURL})
-[Invite to your server](https://discord.com/oauth2/authorize?client_id=634908645896880128&scope=bot&permissions=285599830)`)
+[Invite to your server](https://discord.com/api/oauth2/authorize?client_id=765605459243040808&permissions=8&scope=bot)`)
             .setFooter(`Made by ${OWNER.tag}`)
         );
     }
