@@ -33,17 +33,18 @@ A Powerful multipurpose Discord Bot with over than 100+ commands!
 
 * [Support Server](https://discord.gg/jKRhsnA)
 * [Youtube Channel](https://www.youtube.com/channel/UCICcZIXbddEEiQixvVB6rIQ)
+* [Instagram](https://www.instagram.com/aniruddha__414/)
 
 
 
-#### **This Moderation bot was created by 0_0#6666**
+#### **This Moderation bot was created by __I'mカAnnYᴼᴾ#7872__**
 _To set up your bot please head to .env and follow the steps as mentioned in video!_
-**This bot is fully customisable join https://discord.gg/8HKHXbz for support and other questions**
+**This bot is fully customisable join https://discord.gg/jKRhsnA for support and other questions**
 
 
 
 **NOTE
 `` THIS BOT DIES IF YOU DON'T USE IT EVERY 5 MINUTES CAN BE EASILY RE-HOSTED BY REGENERATING THE TOKEN AND REPPLACING IT 
-IF YOU WANT A SCRIPT THAT PREVENTS THIS JOIN THE SERVER ABOVE AND DM  THIS MIGHT GET YOUR PROJECT SUSPENDED BUT YOU CAN ALWAYS
+IF YOU WANT A SCRIPT THAT PREVENTS THIS JOIN THE SERVER ABOVE AND DM I'mカAnnYᴼᴾ#7872 THIS MIGHT GET YOUR PROJECT SUSPENDED BUT YOU CAN ALWAYS
 MAKE A NEW ONE USING MY TUTORIAL :D``**
 
