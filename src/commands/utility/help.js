@@ -157,9 +157,11 @@ module.exports = class extends BaseCommand {
           `Join our [Support Server](${client.unicron.serverInviteURL}) for help and updates!\n\`\`\`xl\n${prefix}help [Category]\n\`\`\``
         )
         .addField(
-          `[Check Out My Instagram](https://instagram.com/aniruddha__414 "anny's instagram")`, true
-          .addField(
-        )          `[Check Out My Discord](https://instagram.com/aniruddha__414 "anny's Discord Server")`, true
+          `[Check Out My Instagram](https://instagram.com/aniruddha__414)`,
+          )
+      .addField(
+          `[Check Out My Discord](https://discord.gg/jKRhsnA)`,
+          )
         .addField(
           `${await client.getEmoji("staff")} Moderation`,
           `\`moderation\``,
@@ -175,8 +177,8 @@ module.exports = class extends BaseCommand {
         .addField(` Utility`, `\`utility\``, true)
         .addField(`🔍 Search`, `\`search\``, true)
         .addField(` Misc`, `\`misc\``, true)
-        .addField("😂 Fun", `\`fun\``, true)
+        .addField("😂 Fun", `\fun\``, true)
         .setTimestamp()
     )
-      }
+      };
 };
