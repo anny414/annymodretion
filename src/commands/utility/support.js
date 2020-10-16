@@ -37,7 +37,6 @@ module.exports = class extends BaseCommand {
             .setDescription(`
 [Support Server](${client.unicron.serverInviteURL})
 [Invite to your server](https://discord.com/api/oauth2/authorize?client_id=765605459243040808&permissions=8&scope=bot)`)
-[Inatagram](https://instagram.com/aniruddha__414)
             .setFooter(`Made by ${OWNER.tag}`)
         );
     }
