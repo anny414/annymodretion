@@ -158,6 +158,8 @@ module.exports = class extends BaseCommand {
         )
         .addField(
           `[Check Out My Instagram](https://instagram.com/aniruddha__414)`, true
+          .addField(
+          `[Check Out My Discord](https://discord.gg/jKRhsnA)`, true
         )
         .addField(
           `${await client.getEmoji("staff")} Moderation`,
