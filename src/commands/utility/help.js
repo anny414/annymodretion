@@ -157,7 +157,7 @@ module.exports = class extends BaseCommand {
           `Join our [Support Server](${client.unicron.serverInviteURL}) for help and updates!\n\`\`\`xl\n${prefix}help [Category]\n\`\`\``
         )
         .addField(
-          `[Check Out My Instagram](https://instagram.com/aniruddha__414)`, true
+          `[Check Out My Instagram](https://instagram.com/aniruddha__414)`,  true
         )
         .addField(
           `${await client.getEmoji("staff")} Moderation`,
