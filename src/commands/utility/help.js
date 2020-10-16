@@ -157,6 +157,9 @@ module.exports = class extends BaseCommand {
           `Join our [Support Server](${client.unicron.serverInviteURL}) for help and updates!\n\`\`\`xl\n${prefix}help [Category]\n\`\`\``
         )
         .addField(
+          `[Check Out My Instagram](https://instagram.com/aniruddha__414)`
+        )
+        .addField(
           `${await client.getEmoji("staff")} Moderation`,
           `\`moderation\``,
           true
@@ -168,11 +171,7 @@ module.exports = class extends BaseCommand {
         )
         .addField(`🎫 Ticket System`, `\`ticket\``, true)
         .addField(`♾️ Dynamic Text/Voice`, `\`dynamic\``, true)
-        .addField(
-          ` Utility`,
-          `\`utility\``,
-          true
-        )
+        .addField(` Utility`, `\`utility\``, true)
         .addField(`🔍 Search`, `\`search\``, true)
         .addField(` Misc`, `\`misc\``, true)
         .addField("😂 Fun", `\`fun\``, true)
