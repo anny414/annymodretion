@@ -177,6 +177,6 @@ module.exports = class extends BaseCommand {
         .addField(` Misc`, `\`misc\``, true)
         .addField("😂 Fun", `\`fun\``, true)
         .setTimestamp()
-    );
-  }
+    )
+      }
 };
