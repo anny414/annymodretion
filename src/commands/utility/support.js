@@ -35,8 +35,8 @@ module.exports = class extends BaseCommand {
             .setColor(0x00FFFF)
             .setTitle('0_0 Fun & Moderation bot')
             .setDescription(`
-[Support Server](${client.unicron.serverInviteURL})
-[Invite to your server](https://discord.com/api/oauth2/authorize?client_id=765605459243040808&permissions=8&scope=bot)`)
+[Support Server](${client.unicron.serverInviteURL} "Gaming With Anny")
+[Invite to your server](https://discord.com/api/oauth2/authorize?client_id=765605459243040808&permissions=8&scope=bot "Invite Anny To Your Server")`)
             .setFooter(`Made by ${OWNER.tag}`)
         );
     }
