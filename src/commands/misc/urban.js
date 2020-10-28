@@ -30,7 +30,7 @@ module.exports = class extends BaseCommand {
      */
     async run(client, message, args) {
         const query = `?term=${encodeURIComponent(args.join(' '))}`;
-        const { list } = await fetch(`https://api.urbandictionary.com/v0/define?${query}`).then(response => response.json());
+        const { list } = await fetch(`https://api.urbandictionary.com.v0/define?${query}`).then(response => response.json());
         if (!list.length) {
             return message.channel.send(new Discord.MessageEmbed()
                 .setColor('RED')
