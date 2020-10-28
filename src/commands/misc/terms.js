@@ -9,7 +9,7 @@ module.exports = class extends BaseCommand {
         super({
             config: {
                 name: 'terms',
-                description: 'Read Unicron\'s Terms of Service.',
+                description: 'Read Annys\'s Terms of Service.',
                 permission: 'User',
             },
             options: {
@@ -30,7 +30,7 @@ module.exports = class extends BaseCommand {
     async run(client, message, args) {
         return message.channel.send(new Discord.MessageEmbed()
             .setColor(0x00FFFF)
-            .setTitle(`Unicron Bot - Terms of Service`)
+            .setTitle(`Anny Bot - Terms of Service`)
             .setDescription('\nUnicron has access to the End User Data through the Discord API, but Unicron does not collect, use and/or disclose End User Data except (a) as necessary to exercise your rights under this Agreement, (b) in accordance with Discord’s Privacy Policy.' +
                 '\n\nWe will never sell, license or otherwise commercialize any End User Data. Neither will we ever use End User Data to target End Users for marketing or advertising purposes. We will never even disclose any End User Data to any ad network, data broker or other advertising or monetization related service.' +
                 '\n\nEnd User Data will be retained only as necessary to provide the defined functionality of the Application and nothing more.' +
